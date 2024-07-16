@@ -5,12 +5,14 @@ import java.util.Scanner;
 public class Simple_Compound_Interest {
     static double simpleInterest(double p, double n,double r)
     {
-        double SI=(p*n*r)/100;
+        double SI;
+        SI = (p*n*r)/100;
         return SI;
     }
     static double compoundInterest(double p,double n, double r)
     {
-        double CI = (p*Math.pow((1+r/100),n))-p;
+        double CI;
+        CI = (p*Math.pow((1+r/100),n))-p;
         return CI;
     }
     public static void main(String[] args) {
