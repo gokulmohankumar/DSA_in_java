@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c029545b-14a4-4d3a-bcb7-49bf597a62a7" name="Changes" comment="fisrt commit">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/reverseArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c029545b-14a4-4d3a-bcb7-49bf597a62a7" name="Changes" comment="fisrt commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,32 +43,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.ArithmeticOperation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArmstrongNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CountingOccurences.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FibonacciSeries.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HCFandLCM.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeapYear.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MultiplicationTable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OptimizedPrimeNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PalindromeNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PalindromeString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Simple_Compound_Interest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumUntilX.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SwapNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/MSI/Desktop/DSA_in_java&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/MSI/Desktop/DSA_in_java/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.file-colors&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.ArithmeticOperation.executor": "Run",
+    "Application.ArmstrongNumber.executor": "Run",
+    "Application.CountingOccurences.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.FibonacciSeries.executor": "Run",
+    "Application.HCFandLCM.executor": "Run",
+    "Application.LeapYear.executor": "Run",
+    "Application.MultiplicationTable.executor": "Run",
+    "Application.OptimizedPrimeNumber.executor": "Run",
+    "Application.PalindromeNumber.executor": "Run",
+    "Application.PalindromeString.executor": "Run",
+    "Application.Simple_Compound_Interest.executor": "Run",
+    "Application.SumUntilX.executor": "Run",
+    "Application.SwapNumbers.executor": "Run",
+    "Application.reverseArray.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/MSI/Desktop/DSA_in_java",
+    "onboarding.tips.debug.path": "C:/Users/MSI/Desktop/DSA_in_java/src/Main.java",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.file-colors"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="HCFandLCM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_1_flowOfProgram.HCFandLCM" />
@@ -125,7 +123,23 @@
       <option name="project" value="LOCAL" />
       <updated>1721160265253</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fisrt commit">
+      <option name="closed" value="true" />
+      <created>1721236736900</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721236736900</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fisrt commit">
+      <option name="closed" value="true" />
+      <created>1721236781698</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721236781698</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,6 +155,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="&quot;array practices&quot;" />
     <MESSAGE value="fisrt commit" />
     <option name="LAST_COMMIT_MESSAGE" value="fisrt commit" />
   </component>
