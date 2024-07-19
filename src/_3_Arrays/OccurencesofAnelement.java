@@ -7,9 +7,8 @@ public class OccurencesofAnelement {
 
     private static void findFrequency(int []arr) {
         Arrays.sort(arr);
-        int i=1;
         int freq = 1;
-
+        int i;
             for (i = 1; i < arr.length; i++) {
                 if (arr[i] == arr[i - 1]) {
                     freq++;
