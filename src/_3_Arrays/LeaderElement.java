@@ -2,7 +2,7 @@ package _3_Arrays;
 
 import java.util.Scanner;
 
-//An leader element is the rightmost element which is greater than all the elements to the rightside
+//A leader element is the rightmost element which is greater than all the elements to the right side
 //time complexity O(n)
 public class LeaderElement {
     private static int findLeader(int[] arr, int n) {
