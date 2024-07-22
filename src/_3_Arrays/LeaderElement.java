@@ -31,11 +31,10 @@ public class LeaderElement {
         System.out.println("Enter the size of the array");
         int n = in.nextInt();
         int []arr=new int[n];
-        System.out.println("Enter the elements of the arrray");
+        System.out.println("Enter the elements of the array");
         for (int i = 0; i < n; i++) {
                      arr[i] = in.nextInt();
         }
         System.out.println("the leader element is : "+ findLeader(arr,n));
     }
-
 }

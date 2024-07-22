@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c029545b-14a4-4d3a-bcb7-49bf597a62a7" name="Changes" comment="fisrt commit">
-      <change afterPath="$PROJECT_DIR$/src/_3_Arrays/LeaderElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_3_Arrays/MaximumsubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_3_Arrays/MinandMaxnumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_3_Arrays/OccurencesofAnelement.java" afterDir="false" />
+    <list default="true" id="c029545b-14a4-4d3a-bcb7-49bf597a62a7" name="Changes" comment="Updates in Array">
+      <change afterPath="$PROJECT_DIR$/src/_3_Arrays/MoveZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3_Arrays/RightandLeftShift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3_Arrays/RotatingArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_in_java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DSA_in_java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_3_Arrays/LeaderElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_3_Arrays/LeaderElement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,11 +62,14 @@
     "Application.LeapYear.executor": "Run",
     "Application.MaximumsubArray.executor": "Run",
     "Application.MinandMaxnumbers.executor": "Run",
+    "Application.MoveZeroes.executor": "Run",
     "Application.MultiplicationTable.executor": "Run",
     "Application.OccurencesofAnelement.executor": "Run",
     "Application.OptimizedPrimeNumber.executor": "Run",
     "Application.PalindromeNumber.executor": "Run",
     "Application.PalindromeString.executor": "Run",
+    "Application.RightandLeftShift.executor": "Run",
+    "Application.RotatingArray.executor": "Run",
     "Application.Simple_Compound_Interest.executor": "Run",
     "Application.SumUntilX.executor": "Run",
     "Application.SwapNumbers.executor": "Run",
@@ -162,7 +164,23 @@
       <option name="project" value="LOCAL" />
       <updated>1721236967499</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Updates in Array">
+      <option name="closed" value="true" />
+      <created>1721417607920</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1721417607920</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Updates in Array">
+      <option name="closed" value="true" />
+      <created>1721417655088</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1721417655088</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,6 +198,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="&quot;array practices&quot;" />
     <MESSAGE value="fisrt commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="fisrt commit" />
+    <MESSAGE value="Updates in Array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updates in Array" />
   </component>
 </project>
