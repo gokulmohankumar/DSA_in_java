@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c029545b-14a4-4d3a-bcb7-49bf597a62a7" name="Changes" comment="Updates in Array">
-      <change afterPath="$PROJECT_DIR$/src/_3_Arrays/MoveZeroes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_3_Arrays/RightandLeftShift.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_3_Arrays/RotatingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3_Arrays/MaximumANDpair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3_Arrays/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3_Arrays/SubarrayOfArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_3_Arrays/LeaderElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_3_Arrays/LeaderElement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +59,7 @@
     "Application.HCFandLCM.executor": "Run",
     "Application.LeaderElement.executor": "Run",
     "Application.LeapYear.executor": "Run",
+    "Application.MaximumANDpair.executor": "Run",
     "Application.MaximumsubArray.executor": "Run",
     "Application.MinandMaxnumbers.executor": "Run",
     "Application.MoveZeroes.executor": "Run",
@@ -68,9 +68,11 @@
     "Application.OptimizedPrimeNumber.executor": "Run",
     "Application.PalindromeNumber.executor": "Run",
     "Application.PalindromeString.executor": "Run",
+    "Application.RemoveDuplicates.executor": "Run",
     "Application.RightandLeftShift.executor": "Run",
     "Application.RotatingArray.executor": "Run",
     "Application.Simple_Compound_Interest.executor": "Run",
+    "Application.SubarrayOfArray.executor": "Run",
     "Application.SumUntilX.executor": "Run",
     "Application.SwapNumbers.executor": "Run",
     "Application.reverseArray.executor": "Run",
@@ -180,7 +182,23 @@
       <option name="project" value="LOCAL" />
       <updated>1721417655088</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Updates in Array">
+      <option name="closed" value="true" />
+      <created>1721624333061</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1721624333061</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Updates in Array">
+      <option name="closed" value="true" />
+      <created>1721624534167</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1721624534167</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
