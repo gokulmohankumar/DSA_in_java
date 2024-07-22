@@ -1,7 +1,7 @@
 package _3_Arrays;
 import java.util.Arrays;
 
-public class reverseArray {
+public class ReverseArray {
     //two pointer method
     private static void RevArray(int[] arr) {
         int start=0;
