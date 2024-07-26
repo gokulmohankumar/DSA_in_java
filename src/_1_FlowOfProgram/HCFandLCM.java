@@ -1,4 +1,4 @@
-package _1_flowOfProgram;
+package _1_FlowOfProgram;
 import java.util.Scanner;
 
 public class HCFandLCM {
