@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c029545b-14a4-4d3a-bcb7-49bf597a62a7" name="Changes" comment="Updates in Array">
-      <change afterPath="$PROJECT_DIR$/src/_3_Arrays/MaximumANDpair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_3_Arrays/RemoveDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_3_Arrays/SubarrayOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinearSearching/EvenDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinearSearching/Maxwealth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinearSearching/Searchin2Darray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinearSearching/SearchinArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinearSearching/SearchinString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3_Arrays/SpanofanArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_3_Arrays/SubarrayOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_3_Arrays/SubarrayOfArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +58,9 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.ArithmeticOperation.executor": "Run",
     "Application.ArmstrongNumber.executor": "Run",
+    "Application.Conversions.executor": "Run",
     "Application.CountingOccurences.executor": "Run",
+    "Application.EvenDigits.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.FibonacciSeries.executor": "Run",
     "Application.HCFandLCM.executor": "Run",
@@ -61,6 +68,7 @@
     "Application.LeapYear.executor": "Run",
     "Application.MaximumANDpair.executor": "Run",
     "Application.MaximumsubArray.executor": "Run",
+    "Application.Maxwealth.executor": "Run",
     "Application.MinandMaxnumbers.executor": "Run",
     "Application.MoveZeroes.executor": "Run",
     "Application.MultiplicationTable.executor": "Run",
@@ -69,18 +77,26 @@
     "Application.PalindromeNumber.executor": "Run",
     "Application.PalindromeString.executor": "Run",
     "Application.RemoveDuplicates.executor": "Run",
+    "Application.ReversingString.executor": "Run",
     "Application.RightandLeftShift.executor": "Run",
     "Application.RotatingArray.executor": "Run",
+    "Application.Searchin2Darray.executor": "Run",
+    "Application.SearchinArray.executor": "Run",
+    "Application.SearchinString.executor": "Run",
     "Application.Simple_Compound_Interest.executor": "Run",
+    "Application.SpanofanArray.executor": "Run",
     "Application.SubarrayOfArray.executor": "Run",
     "Application.SumUntilX.executor": "Run",
     "Application.SwapNumbers.executor": "Run",
+    "Application.Testing.executor": "Run",
     "Application.reverseArray.executor": "Run",
+    "Application.testing.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
@@ -198,7 +214,23 @@
       <option name="project" value="LOCAL" />
       <updated>1721624534167</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Updates in Array">
+      <option name="closed" value="true" />
+      <created>1721663626898</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1721663626898</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Updates in Array">
+      <option name="closed" value="true" />
+      <created>1721663720579</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1721663720579</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

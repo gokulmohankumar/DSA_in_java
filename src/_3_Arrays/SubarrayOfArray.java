@@ -7,7 +7,6 @@ public class SubarrayOfArray {
 
     private static void Subarray(int[] arr, int start, int end) {
 
-
         for(int i=start;i<=end;i++)
         {
             for (int j = i; j <=end ; j++) {
