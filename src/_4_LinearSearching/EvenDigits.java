@@ -1,4 +1,4 @@
-package LinearSearching;
+package _4_LinearSearching;
 
 public class EvenDigits {
     private static int evenDigitsinArray(int[]arr)

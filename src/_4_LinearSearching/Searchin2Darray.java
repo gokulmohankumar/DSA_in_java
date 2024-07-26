@@ -1,4 +1,4 @@
-package LinearSearching;
+package _4_LinearSearching;
 import java.util.Arrays;
 
 public class Searchin2Darray {

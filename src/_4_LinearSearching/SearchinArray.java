@@ -1,4 +1,4 @@
-package LinearSearching;
+package _4_LinearSearching;
 
 public class SearchinArray {
     private static int search(int[]arr,int target)

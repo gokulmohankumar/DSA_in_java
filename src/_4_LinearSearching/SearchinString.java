@@ -1,4 +1,4 @@
-package LinearSearching;
+package _4_LinearSearching;
 
 public class SearchinString {
     static boolean search(String str,char c)

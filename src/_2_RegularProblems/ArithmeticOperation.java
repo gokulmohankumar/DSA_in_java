@@ -1,4 +1,4 @@
-package _2_regularProblems;
+package _2_RegularProblems;
 import java.util.Scanner;
 
 public class ArithmeticOperation {
