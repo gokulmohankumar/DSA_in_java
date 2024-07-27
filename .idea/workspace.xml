@@ -4,16 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c029545b-14a4-4d3a-bcb7-49bf597a62a7" name="Changes" comment="Updates in Array">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinearSearching/EvenDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinearSearching/Maxwealth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinearSearching/Searchin2Darray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinearSearching/SearchinArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinearSearching/SearchinString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_3_Arrays/SpanofanArray.java" afterDir="false" />
+    <list default="true" id="c029545b-14a4-4d3a-bcb7-49bf597a62a7" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/src/_5_BinarySearch/BSin2Darray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5_BinarySearch/BsinArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5_BinarySearch/BsinSorted2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5_BinarySearch/LargestElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_3_Arrays/SubarrayOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_3_Arrays/SubarrayOfArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +54,9 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.ArithmeticOperation.executor": "Run",
     "Application.ArmstrongNumber.executor": "Run",
+    "Application.BSin2Darray.executor": "Run",
+    "Application.BsArray.executor": "Run",
+    "Application.BsinSorted2DArray.executor": "Run",
     "Application.Conversions.executor": "Run",
     "Application.CountingOccurences.executor": "Run",
     "Application.EvenDigits.executor": "Run",
@@ -107,11 +106,11 @@
 }]]></component>
   <component name="RunManager">
     <configuration name="HCFandLCM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_1_flowOfProgram.HCFandLCM" />
+      <option name="MAIN_CLASS_NAME" value="_1_FlowOfProgram.HCFandLCM" />
       <module name="DSA_in_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_1_flowOfProgram.*" />
+          <option name="PATTERN" value="_1_FlowOfProgram.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,7 +229,31 @@
       <option name="project" value="LOCAL" />
       <updated>1721663720579</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Updates in Searching">
+      <option name="closed" value="true" />
+      <created>1722013547339</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1722013547339</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Updates in Searching">
+      <option name="closed" value="true" />
+      <created>1722013649873</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1722013649875</updated>
+    </task>
+    <task id="LOCAL-00015" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1722013715972</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1722013715972</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,6 +272,8 @@
     <MESSAGE value="&quot;array practices&quot;" />
     <MESSAGE value="fisrt commit" />
     <MESSAGE value="Updates in Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updates in Array" />
+    <MESSAGE value="Updates in Searching" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
