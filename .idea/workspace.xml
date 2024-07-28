@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c029545b-14a4-4d3a-bcb7-49bf597a62a7" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/_5_BinarySearch/BSin2Darray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_5_BinarySearch/BsinArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_5_BinarySearch/BsinSorted2DArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_5_BinarySearch/LargestElement.java" afterDir="false" />
+    <list default="true" id="c029545b-14a4-4d3a-bcb7-49bf597a62a7" name="Changes" comment="updates in binary search">
+      <change afterPath="$PROJECT_DIR$/src/_5_BinarySearch/CeilingOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5_BinarySearch/FirstandLastPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5_BinarySearch/FlooringOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5_BinarySearch/InfiniteLength_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5_BinarySearch/SmallestLetter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,12 +58,17 @@
     "Application.BSin2Darray.executor": "Run",
     "Application.BsArray.executor": "Run",
     "Application.BsinSorted2DArray.executor": "Run",
+    "Application.CeilingOfNumber.executor": "Run",
+    "Application.CeilingofNumber.executor": "Run",
     "Application.Conversions.executor": "Run",
     "Application.CountingOccurences.executor": "Run",
     "Application.EvenDigits.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.FibonacciSeries.executor": "Run",
+    "Application.FirstandLastPosition.executor": "Run",
+    "Application.FlooringOfNumber.executor": "Run",
     "Application.HCFandLCM.executor": "Run",
+    "Application.InfiniteLength_Array.executor": "Run",
     "Application.LeaderElement.executor": "Run",
     "Application.LeapYear.executor": "Run",
     "Application.MaximumANDpair.executor": "Run",
@@ -83,6 +89,7 @@
     "Application.SearchinArray.executor": "Run",
     "Application.SearchinString.executor": "Run",
     "Application.Simple_Compound_Interest.executor": "Run",
+    "Application.SmallestLetter.executor": "Run",
     "Application.SpanofanArray.executor": "Run",
     "Application.SubarrayOfArray.executor": "Run",
     "Application.SumUntilX.executor": "Run",
@@ -253,7 +260,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722013715972</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="updates in binary search">
+      <option name="closed" value="true" />
+      <created>1722098872027</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1722098872027</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -274,6 +289,7 @@
     <MESSAGE value="Updates in Array" />
     <MESSAGE value="Updates in Searching" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="updates in binary search" />
+    <option name="LAST_COMMIT_MESSAGE" value="updates in binary search" />
   </component>
 </project>
