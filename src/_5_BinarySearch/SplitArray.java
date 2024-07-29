@@ -9,9 +9,9 @@ public class SplitArray {
     public static int splitArray(int[] nums, int k) {
        int start=0;
        int end=0;
-        for (int i = 0; i < nums.length; i++) {
-            start=Math.max(start,nums[i]); // ini the end of the loop it will contain the loop
-            end+=nums[i];
+        for (int j : nums) {
+            start = Math.max(start, j); // in the end of the loop it will contain the loop
+            end += j;
         }
         //binary search
         while(start<end)
