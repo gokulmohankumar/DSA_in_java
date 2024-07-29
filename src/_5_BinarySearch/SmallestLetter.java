@@ -23,7 +23,6 @@ public class SmallestLetter {
             {
                 start=mid+1;
             }
-
         }
         return (char)letters[start%letters.length];
     }

@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c029545b-14a4-4d3a-bcb7-49bf597a62a7" name="Changes" comment="updates in binary search">
-      <change afterPath="$PROJECT_DIR$/src/_5_BinarySearch/CeilingOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_5_BinarySearch/FirstandLastPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_5_BinarySearch/FlooringOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_5_BinarySearch/InfiniteLength_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_5_BinarySearch/SmallestLetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5_BinarySearch/FindPivotinDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5_BinarySearch/Peakelement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5_BinarySearch/RotatedBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5_BinarySearch/RotationCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5_BinarySearch/SearchinMountainArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5_BinarySearch/SplitArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_5_BinarySearch/SmallestLetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_5_BinarySearch/SmallestLetter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +67,7 @@
     "Application.EvenDigits.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.FibonacciSeries.executor": "Run",
+    "Application.FindPivotinDuplicate.executor": "Run",
     "Application.FirstandLastPosition.executor": "Run",
     "Application.FlooringOfNumber.executor": "Run",
     "Application.HCFandLCM.executor": "Run",
@@ -81,16 +84,21 @@
     "Application.OptimizedPrimeNumber.executor": "Run",
     "Application.PalindromeNumber.executor": "Run",
     "Application.PalindromeString.executor": "Run",
+    "Application.Peakelement.executor": "Run",
     "Application.RemoveDuplicates.executor": "Run",
     "Application.ReversingString.executor": "Run",
     "Application.RightandLeftShift.executor": "Run",
+    "Application.RotatedBinarySearch.executor": "Run",
     "Application.RotatingArray.executor": "Run",
+    "Application.RotationCount.executor": "Run",
     "Application.Searchin2Darray.executor": "Run",
     "Application.SearchinArray.executor": "Run",
+    "Application.SearchinMountainArray.executor": "Run",
     "Application.SearchinString.executor": "Run",
     "Application.Simple_Compound_Interest.executor": "Run",
     "Application.SmallestLetter.executor": "Run",
     "Application.SpanofanArray.executor": "Run",
+    "Application.SplitArray.executor": "Run",
     "Application.SubarrayOfArray.executor": "Run",
     "Application.SumUntilX.executor": "Run",
     "Application.SwapNumbers.executor": "Run",
@@ -268,7 +276,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722098872027</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="updates in binary search">
+      <option name="closed" value="true" />
+      <created>1722166026193</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1722166026193</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
