@@ -5,14 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c029545b-14a4-4d3a-bcb7-49bf597a62a7" name="Changes" comment="updates in binary search">
-      <change afterPath="$PROJECT_DIR$/src/_5_BinarySearch/FindPivotinDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_5_BinarySearch/Peakelement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_5_BinarySearch/RotatedBinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_5_BinarySearch/RotationCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_5_BinarySearch/SearchinMountainArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_5_BinarySearch/SplitArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_6_Patterns/Pattern1_square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_6_Patterns/Pattern2_righttriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_6_Patterns/Pattern31_concentricSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_6_Patterns/Pattern3_invRTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_6_Patterns/Pattern5_halfDiamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_6_Patterns/pattern17_invnumtriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_6_Patterns/pattern28_Diamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_6_Patterns/pattern29_Hallowdiamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_6_Patterns/pattern30_numbertriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_6_Patterns/pattern4_numTriangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_5_BinarySearch/SmallestLetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_5_BinarySearch/SmallestLetter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +87,11 @@
     "Application.OptimizedPrimeNumber.executor": "Run",
     "Application.PalindromeNumber.executor": "Run",
     "Application.PalindromeString.executor": "Run",
+    "Application.Pattern1_square.executor": "Run",
+    "Application.Pattern2_righttriangle.executor": "Run",
+    "Application.Pattern31_concentricSquare.executor": "Run",
+    "Application.Pattern3_invRTriangle.executor": "Run",
+    "Application.Pattern5_halfDiamond.executor": "Run",
     "Application.Peakelement.executor": "Run",
     "Application.RemoveDuplicates.executor": "Run",
     "Application.ReversingString.executor": "Run",
@@ -103,6 +111,12 @@
     "Application.SumUntilX.executor": "Run",
     "Application.SwapNumbers.executor": "Run",
     "Application.Testing.executor": "Run",
+    "Application.pattern1.executor": "Run",
+    "Application.pattern17_invnumtriangle.executor": "Run",
+    "Application.pattern28_Diamond.executor": "Run",
+    "Application.pattern29_Hallowdiamond.executor": "Run",
+    "Application.pattern30_numbertriangle.executor": "Run",
+    "Application.pattern4_numTriangle.executor": "Run",
     "Application.reverseArray.executor": "Run",
     "Application.testing.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
