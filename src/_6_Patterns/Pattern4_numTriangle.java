@@ -2,7 +2,7 @@ package _6_Patterns;
 
 import java.util.Scanner;
 
-public class pattern4_numTriangle {
+public class Pattern4_numTriangle {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Enter the number of rows: ");

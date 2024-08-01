@@ -2,7 +2,7 @@ package _6_Patterns;
 
 import java.util.Scanner;
 
-public class pattern29_Hallowdiamond {
+public class Pattern29_Hallowdiamond {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Enter the number of rows: ");
