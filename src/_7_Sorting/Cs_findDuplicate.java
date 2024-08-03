@@ -1,5 +1,6 @@
 package _7_Sorting;
 
+
 public class Cs_findDuplicate {
     public static void main(String[] args) {
         int []arr={3,1,3,4,2};

@@ -35,6 +35,7 @@ public class Cs_missingNumber {
         arr[first]=arr[second];
         arr[second]=temp;
     }
+
     //Another optimal method for this problem
     public static int missingNumber(int[] arr) {
         int n=arr.length;
