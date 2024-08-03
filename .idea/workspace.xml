@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c029545b-14a4-4d3a-bcb7-49bf597a62a7" name="Changes" comment="added problems in patterns">
-      <change afterPath="$PROJECT_DIR$/src/_7_Sorting/Bubblesort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_7_Sorting/Insertionsort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_7_Sorting/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_7_Sorting/Cs_SetMismatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_7_Sorting/Cs_findAllDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_7_Sorting/Cs_findAllMissing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_7_Sorting/Cs_findDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_7_Sorting/Cs_missingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_7_Sorting/CyclicSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,10 +60,17 @@
     "Application.BsArray.executor": "Run",
     "Application.BsinSorted2DArray.executor": "Run",
     "Application.Bubblesort.executor": "Run",
+    "Application.Bubblesortpractice.executor": "Run",
     "Application.CeilingOfNumber.executor": "Run",
     "Application.CeilingofNumber.executor": "Run",
     "Application.Conversions.executor": "Run",
     "Application.CountingOccurences.executor": "Run",
+    "Application.Cs_SetMismatch.executor": "Run",
+    "Application.Cs_findAllDuplicates.executor": "Run",
+    "Application.Cs_findAllMissing.executor": "Run",
+    "Application.Cs_findDuplicate.executor": "Run",
+    "Application.Cs_missingNumber.executor": "Debug",
+    "Application.CyclicSort.executor": "Run",
     "Application.EvenDigits.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.FibonacciSeries.executor": "Run",
@@ -70,6 +80,7 @@
     "Application.HCFandLCM.executor": "Run",
     "Application.InfiniteLength_Array.executor": "Run",
     "Application.Insertionsort.executor": "Run",
+    "Application.InsertionsortPractice.executor": "Run",
     "Application.LeaderElement.executor": "Run",
     "Application.LeapYear.executor": "Run",
     "Application.MaximumANDpair.executor": "Run",
@@ -99,6 +110,7 @@
     "Application.SearchinMountainArray.executor": "Run",
     "Application.SearchinString.executor": "Run",
     "Application.SelectionSort.executor": "Run",
+    "Application.Selectionsortpractice.executor": "Run",
     "Application.Simple_Compound_Interest.executor": "Run",
     "Application.SmallestLetter.executor": "Run",
     "Application.SpanofanArray.executor": "Run",
