@@ -39,7 +39,6 @@ public class BsinSorted2DArray {
             {
                 rEnd=mid;
             }
-
         }
         // now we have two rows
         // check whether the target is in the column of 2 rows
