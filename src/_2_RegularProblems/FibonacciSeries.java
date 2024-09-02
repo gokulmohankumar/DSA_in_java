@@ -2,7 +2,7 @@ package _2_RegularProblems;
 
 import java.util.Scanner;
 
-public class FibonacciSeries {
+public class  FibonacciSeries {
     static int fibo(int n)
     {
         if(n==1 || n==2)

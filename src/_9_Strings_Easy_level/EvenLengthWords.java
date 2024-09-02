@@ -12,13 +12,13 @@ public class EvenLengthWords {
         {
             if(s.length()%2==0)
             {
-                evenOccured=true;
+             evenOccured=true;
                 System.out.println(s);
             }
         }
-        if(!evenOccured)
-        {
-            System.out.println("even words are not occured in the given sentence");
-        }
+      if(!evenOccured)
+      {
+          System.out.println("No words are even in length");
+      }
     }
 }

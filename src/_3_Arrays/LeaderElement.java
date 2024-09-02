@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 //A leader element is the rightmost element which is greater than all the elements to the right side
 //time complexity O(n)
-public class LeaderElement {
+public class       LeaderElement {
     private static int findLeader(int[] arr, int n) {
         int c=0;
         int maxCount=0;
