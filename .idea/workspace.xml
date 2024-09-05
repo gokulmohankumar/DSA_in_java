@@ -4,21 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c029545b-14a4-4d3a-bcb7-49bf597a62a7" name="Changes" comment="updates in String">
-      <change afterPath="$PROJECT_DIR$/src/_10_Recursions/BubbleSortinrecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_Recursions/CheckSorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_Recursions/FindAllIndexes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_Recursions/FindNthTerm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_Recursions/FindingElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_Recursions/PatternRtr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_Recursions/PrintNto1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_Recursions/RotatedBinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_Recursions/SelectionsortinRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_Recursions/SumTriangle.java" afterDir="false" />
+    <list default="true" id="c029545b-14a4-4d3a-bcb7-49bf597a62a7" name="Changes" comment="Updates in Recursion in Strings">
+      <change afterPath="$PROJECT_DIR$/src/_11_Recursion_II_inStrings/SkipaCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Recursion_II_inStrings/SkipaString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Recursion_II_inStrings/SubseqAscii.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Recursion_II_inStrings/SubseqOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Recursion_II_inStrings/SubseqReturning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_FlowOfProgram/SubsetWithoutduplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_FlowOfProgram/SubsetsofArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_2_RegularProblems/FibonacciSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_2_RegularProblems/FibonacciSeries.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_3_Arrays/LeaderElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_3_Arrays/LeaderElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_9_Strings_Easy_level/EvenLengthWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_9_Strings_Easy_level/EvenLengthWords.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,11 +139,18 @@
     "Application.SelectionsortinRecursion.executor": "Run",
     "Application.Selectionsortpractice.executor": "Run",
     "Application.Simple_Compound_Interest.executor": "Run",
+    "Application.SkipaCharacter.executor": "Run",
+    "Application.SkipaString.executor": "Run",
     "Application.SmallestLetter.executor": "Run",
     "Application.SpanofanArray.executor": "Run",
     "Application.SplitArray.executor": "Run",
     "Application.Splittingstring.executor": "Run",
     "Application.SubarrayOfArray.executor": "Run",
+    "Application.SubseqAscii.executor": "Run",
+    "Application.SubsetReturning.executor": "Run",
+    "Application.SubsetWithoutduplicates.executor": "Run",
+    "Application.SubsetsOfString.executor": "Debug",
+    "Application.SubsetsofArray.executor": "Run",
     "Application.SumTriangle.executor": "Run",
     "Application.SumUntilX.executor": "Run",
     "Application.SwapNumbers.executor": "Run",
@@ -405,7 +406,31 @@
       <option name="project" value="LOCAL" />
       <updated>1724436889060</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Added Recursion problems">
+      <option name="closed" value="true" />
+      <created>1725277551727</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1725277551727</updated>
+    </task>
+    <task id="LOCAL-00027" summary="made changes">
+      <option name="closed" value="true" />
+      <created>1725277685933</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1725277685933</updated>
+    </task>
+    <task id="LOCAL-00028" summary="made changes">
+      <option name="closed" value="true" />
+      <created>1725277878322</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1725277878322</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -432,6 +457,9 @@
     <MESSAGE value="updates in fibonacci formula" />
     <MESSAGE value="updates in bitwise Operations" />
     <MESSAGE value="updates in String" />
-    <option name="LAST_COMMIT_MESSAGE" value="updates in String" />
+    <MESSAGE value="Added Recursion problems" />
+    <MESSAGE value="made changes" />
+    <MESSAGE value="Updates in Recursion in Strings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updates in Recursion in Strings" />
   </component>
 </project>
