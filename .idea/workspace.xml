@@ -4,23 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c029545b-14a4-4d3a-bcb7-49bf597a62a7" name="Changes" comment="Updates in Recursions">
-      <change afterPath="$PROJECT_DIR$/src/_11_Recursion_II_inStrings/MazeProblem_I.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Recursion_II_inStrings/MazeProblem_II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Recursion_II_inStrings/MazeProblem_III.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_12_Backtracking/MazeProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_12_Backtracking/MazeProblem_pathmatrix.java" afterDir="false" />
+    <list default="true" id="c029545b-14a4-4d3a-bcb7-49bf597a62a7" name="Changes" comment="Updates in backtracking">
+      <change afterPath="$PROJECT_DIR$/src/_12_Backtracking/Combinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_12_Backtracking/NKnights.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_12_Backtracking/NQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_12_Backtracking/NqueensList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_12_Backtracking/Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_12_Backtracking/SudokuSolver_I.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_12_Backtracking/SudokuSolver_II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_12_Backtracking/SudokuSolver_IV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_12_Backtracking/ValidSudoku_III.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/__10_Recursions/BubbleSortinrecursion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/__10_Recursions/CheckSorted.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/__10_Recursions/FindAllIndexes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/__10_Recursions/FindNthTerm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/__10_Recursions/FindingElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/__10_Recursions/PatternRtr.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/__10_Recursions/PrintNto1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/__10_Recursions/RotatedBinarySearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/__10_Recursions/SelectionsortinRecursion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/__10_Recursions/SumTriangle.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +29,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -72,6 +67,7 @@
     "Application.Bubblesortpractice.executor": "Run",
     "Application.CeilingOfNumber.executor": "Run",
     "Application.CeilingofNumber.executor": "Run",
+    "Application.Combinations.executor": "Run",
     "Application.Conversions.executor": "Run",
     "Application.CountingOccurences.executor": "Run",
     "Application.Cs_SetMismatch.executor": "Run",
@@ -85,6 +81,7 @@
     "Application.Factorial.executor": "Run",
     "Application.FiboFormula.executor": "Run",
     "Application.FibonacciSeries.executor": "Run",
+    "Application.Fibonaccitry.executor": "Run",
     "Application.FindNo_of_Setbits.executor": "Run",
     "Application.FindPivotinDuplicate.executor": "Run",
     "Application.FirstandLastPosition.executor": "Run",
@@ -106,6 +103,10 @@
     "Application.MinandMaxnumbers.executor": "Run",
     "Application.MoveZeroes.executor": "Run",
     "Application.MultiplicationTable.executor": "Run",
+    "Application.NKnights.executor": "Run",
+    "Application.NQueens.executor": "Run",
+    "Application.Nqueens2.executor": "Run",
+    "Application.NqueensList.executor": "Run",
     "Application.OccurencesofAnelement.executor": "Run",
     "Application.OptimizedPrimeNumber.executor": "Run",
     "Application.PalindromeNumber.executor": "Run",
@@ -119,6 +120,7 @@
     "Application.Pattern5_halfDiamond.executor": "Run",
     "Application.Peakelement.executor": "Run",
     "Application.PermutationOfStrings.executor": "Run",
+    "Application.Permutations.executor": "Run",
     "Application.PhoneLetterCombination.executor": "Run",
     "Application.Power.executor": "Run",
     "Application.Powerof2.executor": "Run",
@@ -143,9 +145,13 @@
     "Application.StepsToMakeZero.executor": "Run",
     "Application.StringPermutation.executor": "Run",
     "Application.SubarrayOfArray.executor": "Run",
+    "Application.SudokuSolver.executor": "Run",
+    "Application.SudokuSolver_II.executor": "Run",
+    "Application.SudokuSolver_IV.executor": "Run",
     "Application.SumUntilX.executor": "Run",
     "Application.SwapNumbers.executor": "Run",
     "Application.Testing.executor": "Run",
+    "Application.ValidSudoku.executor": "Run",
     "Application.pattern1.executor": "Run",
     "Application.pattern17_invnumtriangle.executor": "Run",
     "Application.pattern28_Diamond.executor": "Run",
@@ -397,7 +403,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727016197399</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Updates in Recursions and backtracking">
+      <option name="closed" value="true" />
+      <created>1729526602210</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1729526602210</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -424,6 +438,18 @@
     <MESSAGE value="updates in fibonacci formula" />
     <MESSAGE value="Updates in permutations" />
     <MESSAGE value="Updates in Recursions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updates in Recursions" />
+    <MESSAGE value="Updates in Recursions and backtracking" />
+    <MESSAGE value="Updates in backtracking" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updates in backtracking" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="15" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
