@@ -15,6 +15,7 @@ public class WordSearch {
                 if(board[i][j]==word.charAt(0) && exist(board,word,i,j,0))
                 {
                     System.out.println(true);
+                    return;
                 }
             }
         }

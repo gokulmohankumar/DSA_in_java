@@ -5,16 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c029545b-14a4-4d3a-bcb7-49bf597a62a7" name="Changes" comment="Updates in backtracking">
-      <change afterPath="$PROJECT_DIR$/src/_12_Backtracking/Combinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_12_Backtracking/NKnights.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_12_Backtracking/NQueens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_12_Backtracking/NqueensList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_12_Backtracking/Permutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_12_Backtracking/SudokuSolver_I.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_12_Backtracking/SudokuSolver_II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_12_Backtracking/SudokuSolver_IV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_12_Backtracking/ValidSudoku_III.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/ClimbingStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/FibonacciNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/FrogJump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/Frogjump_K_steps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/HouseRobberII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/MaxsumNonAdjacent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/NinjaTraining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/DFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Recursions/CheckPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Recursions/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_13_LinkedList/CycleDetection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_13_LinkedList/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5_BinarySearch/MedianofArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_12_Backtracking/WordSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_12_Backtracking/WordSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_5_BinarySearch/FirstandLastPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_5_BinarySearch/FirstandLastPosition.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,8 +65,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.AddBinary.executor": "Run",
     "Application.ArithmeticOperation.executor": "Run",
     "Application.ArmstrongNumber.executor": "Run",
+    "Application.BFS.executor": "Run",
     "Application.BSin2Darray.executor": "Run",
     "Application.BsArray.executor": "Run",
     "Application.BsinSorted2DArray.executor": "Run",
@@ -67,6 +76,8 @@
     "Application.Bubblesortpractice.executor": "Run",
     "Application.CeilingOfNumber.executor": "Run",
     "Application.CeilingofNumber.executor": "Run",
+    "Application.CheckPalindrome.executor": "Run",
+    "Application.ClimbingStairs.executor": "Run",
     "Application.Combinations.executor": "Run",
     "Application.Conversions.executor": "Run",
     "Application.CountingOccurences.executor": "Run",
@@ -79,14 +90,19 @@
     "Application.DiceTarget.executor": "Run",
     "Application.EvenDigits.executor": "Run",
     "Application.Factorial.executor": "Run",
+    "Application.Fibo.executor": "Run",
     "Application.FiboFormula.executor": "Run",
+    "Application.FibonacciNumber.executor": "Run",
     "Application.FibonacciSeries.executor": "Run",
     "Application.Fibonaccitry.executor": "Run",
     "Application.FindNo_of_Setbits.executor": "Run",
     "Application.FindPivotinDuplicate.executor": "Run",
     "Application.FirstandLastPosition.executor": "Run",
     "Application.FlooringOfNumber.executor": "Run",
+    "Application.FrogJump.executor": "Run",
+    "Application.Frogjump_K_steps.executor": "Run",
     "Application.HCFandLCM.executor": "Run",
+    "Application.HouseRobberII.executor": "Run",
     "Application.InfiniteLength_Array.executor": "Run",
     "Application.Insertionsort.executor": "Run",
     "Application.InsertionsortPractice.executor": "Run",
@@ -95,16 +111,19 @@
     "Application.MagicNumber.executor": "Run",
     "Application.MaximumANDpair.executor": "Run",
     "Application.MaximumsubArray.executor": "Run",
+    "Application.MaxsumNonAdjacent.executor": "Run",
     "Application.Maxwealth.executor": "Run",
     "Application.MazePossibleCount.executor": "Run",
     "Application.MazeProblem.executor": "Run",
     "Application.MazeProblem_III.executor": "Run",
     "Application.MazeProblem_pathmatrix.executor": "Run",
+    "Application.MedianofArrays.executor": "Run",
     "Application.MinandMaxnumbers.executor": "Run",
     "Application.MoveZeroes.executor": "Run",
     "Application.MultiplicationTable.executor": "Run",
     "Application.NKnights.executor": "Run",
     "Application.NQueens.executor": "Run",
+    "Application.NinjaTraining.executor": "Run",
     "Application.Nqueens2.executor": "Run",
     "Application.NqueensList.executor": "Run",
     "Application.OccurencesofAnelement.executor": "Run",
@@ -127,6 +146,7 @@
     "Application.RangeXOR.executor": "Run",
     "Application.RemoveDuplicates.executor": "Run",
     "Application.ReturnAllPermutations.executor": "Run",
+    "Application.ReverseArray.executor": "Run",
     "Application.ReversingString.executor": "Run",
     "Application.RightandLeftShift.executor": "Run",
     "Application.RotatedBinarySearch.executor": "Run",
@@ -152,6 +172,7 @@
     "Application.SwapNumbers.executor": "Run",
     "Application.Testing.executor": "Run",
     "Application.ValidSudoku.executor": "Run",
+    "Application.WordSearch.executor": "Run",
     "Application.pattern1.executor": "Run",
     "Application.pattern17_invnumtriangle.executor": "Run",
     "Application.pattern28_Diamond.executor": "Run",
@@ -411,7 +432,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729526602210</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Updates in backtracking">
+      <option name="closed" value="true" />
+      <created>1730202771295</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1730202771295</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
