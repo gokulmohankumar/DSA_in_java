@@ -4,24 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c029545b-14a4-4d3a-bcb7-49bf597a62a7" name="Changes" comment="Updates in backtracking">
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/ClimbingStairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/FibonacciNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/FrogJump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/Frogjump_K_steps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/HouseRobberII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/MaxsumNonAdjacent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/NinjaTraining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graphs/BFS.java" afterDir="false" />
+    <list default="true" id="c029545b-14a4-4d3a-bcb7-49bf597a62a7" name="Changes" comment="Updates in Dynamic Programming">
       <change afterPath="$PROJECT_DIR$/src/Graphs/DFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_Recursions/CheckPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_Recursions/ReverseArray.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/_13_LinkedList/CycleDetection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_13_LinkedList/RemoveDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_5_BinarySearch/MedianofArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_12_Backtracking/WordSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_12_Backtracking/WordSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_5_BinarySearch/FirstandLastPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_5_BinarySearch/FirstandLastPosition.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,139 +47,139 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.AddBinary.executor": "Run",
-    "Application.ArithmeticOperation.executor": "Run",
-    "Application.ArmstrongNumber.executor": "Run",
-    "Application.BFS.executor": "Run",
-    "Application.BSin2Darray.executor": "Run",
-    "Application.BsArray.executor": "Run",
-    "Application.BsinSorted2DArray.executor": "Run",
-    "Application.Bubblesort.executor": "Run",
-    "Application.Bubblesortpractice.executor": "Run",
-    "Application.CeilingOfNumber.executor": "Run",
-    "Application.CeilingofNumber.executor": "Run",
-    "Application.CheckPalindrome.executor": "Run",
-    "Application.ClimbingStairs.executor": "Run",
-    "Application.Combinations.executor": "Run",
-    "Application.Conversions.executor": "Run",
-    "Application.CountingOccurences.executor": "Run",
-    "Application.Cs_SetMismatch.executor": "Run",
-    "Application.Cs_findAllDuplicates.executor": "Run",
-    "Application.Cs_findAllMissing.executor": "Run",
-    "Application.Cs_findDuplicate.executor": "Run",
-    "Application.Cs_missingNumber.executor": "Debug",
-    "Application.CyclicSort.executor": "Run",
-    "Application.DiceTarget.executor": "Run",
-    "Application.EvenDigits.executor": "Run",
-    "Application.Factorial.executor": "Run",
-    "Application.Fibo.executor": "Run",
-    "Application.FiboFormula.executor": "Run",
-    "Application.FibonacciNumber.executor": "Run",
-    "Application.FibonacciSeries.executor": "Run",
-    "Application.Fibonaccitry.executor": "Run",
-    "Application.FindNo_of_Setbits.executor": "Run",
-    "Application.FindPivotinDuplicate.executor": "Run",
-    "Application.FirstandLastPosition.executor": "Run",
-    "Application.FlooringOfNumber.executor": "Run",
-    "Application.FrogJump.executor": "Run",
-    "Application.Frogjump_K_steps.executor": "Run",
-    "Application.HCFandLCM.executor": "Run",
-    "Application.HouseRobberII.executor": "Run",
-    "Application.InfiniteLength_Array.executor": "Run",
-    "Application.Insertionsort.executor": "Run",
-    "Application.InsertionsortPractice.executor": "Run",
-    "Application.LeaderElement.executor": "Run",
-    "Application.LeapYear.executor": "Run",
-    "Application.MagicNumber.executor": "Run",
-    "Application.MaximumANDpair.executor": "Run",
-    "Application.MaximumsubArray.executor": "Run",
-    "Application.MaxsumNonAdjacent.executor": "Run",
-    "Application.Maxwealth.executor": "Run",
-    "Application.MazePossibleCount.executor": "Run",
-    "Application.MazeProblem.executor": "Run",
-    "Application.MazeProblem_III.executor": "Run",
-    "Application.MazeProblem_pathmatrix.executor": "Run",
-    "Application.MedianofArrays.executor": "Run",
-    "Application.MinandMaxnumbers.executor": "Run",
-    "Application.MoveZeroes.executor": "Run",
-    "Application.MultiplicationTable.executor": "Run",
-    "Application.NKnights.executor": "Run",
-    "Application.NQueens.executor": "Run",
-    "Application.NinjaTraining.executor": "Run",
-    "Application.Nqueens2.executor": "Run",
-    "Application.NqueensList.executor": "Run",
-    "Application.OccurencesofAnelement.executor": "Run",
-    "Application.OptimizedPrimeNumber.executor": "Run",
-    "Application.PalindromeNumber.executor": "Run",
-    "Application.PalindromeString.executor": "Run",
-    "Application.Pattern1_square.executor": "Run",
-    "Application.Pattern29_Hallowdiamond.executor": "Run",
-    "Application.Pattern2_righttriangle.executor": "Run",
-    "Application.Pattern31_concentricSquare.executor": "Run",
-    "Application.Pattern3_invRTriangle.executor": "Run",
-    "Application.Pattern4_numTriangle.executor": "Run",
-    "Application.Pattern5_halfDiamond.executor": "Run",
-    "Application.Peakelement.executor": "Run",
-    "Application.PermutationOfStrings.executor": "Run",
-    "Application.Permutations.executor": "Run",
-    "Application.PhoneLetterCombination.executor": "Run",
-    "Application.Power.executor": "Run",
-    "Application.Powerof2.executor": "Run",
-    "Application.RangeXOR.executor": "Run",
-    "Application.RemoveDuplicates.executor": "Run",
-    "Application.ReturnAllPermutations.executor": "Run",
-    "Application.ReverseArray.executor": "Run",
-    "Application.ReversingString.executor": "Run",
-    "Application.RightandLeftShift.executor": "Run",
-    "Application.RotatedBinarySearch.executor": "Run",
-    "Application.RotatingArray.executor": "Run",
-    "Application.RotationCount.executor": "Run",
-    "Application.Searchin2Darray.executor": "Run",
-    "Application.SearchinArray.executor": "Run",
-    "Application.SearchinMountainArray.executor": "Run",
-    "Application.SearchinString.executor": "Run",
-    "Application.SelectionSort.executor": "Run",
-    "Application.Selectionsortpractice.executor": "Run",
-    "Application.Simple_Compound_Interest.executor": "Run",
-    "Application.SmallestLetter.executor": "Run",
-    "Application.SpanofanArray.executor": "Run",
-    "Application.SplitArray.executor": "Run",
-    "Application.StepsToMakeZero.executor": "Run",
-    "Application.StringPermutation.executor": "Run",
-    "Application.SubarrayOfArray.executor": "Run",
-    "Application.SudokuSolver.executor": "Run",
-    "Application.SudokuSolver_II.executor": "Run",
-    "Application.SudokuSolver_IV.executor": "Run",
-    "Application.SumUntilX.executor": "Run",
-    "Application.SwapNumbers.executor": "Run",
-    "Application.Testing.executor": "Run",
-    "Application.ValidSudoku.executor": "Run",
-    "Application.WordSearch.executor": "Run",
-    "Application.pattern1.executor": "Run",
-    "Application.pattern17_invnumtriangle.executor": "Run",
-    "Application.pattern28_Diamond.executor": "Run",
-    "Application.pattern29_Hallowdiamond.executor": "Run",
-    "Application.pattern30_numbertriangle.executor": "Run",
-    "Application.pattern4_numTriangle.executor": "Run",
-    "Application.reverseArray.executor": "Run",
-    "Application.testing.executor": "Run",
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/MSI/Desktop/DSA_in_java",
-    "onboarding.tips.debug.path": "C:/Users/MSI/Desktop/DSA_in_java/src/Main.java",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.file-colors"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.AddBinary.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArithmeticOperation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArmstrongNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BFS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BSin2Darray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BsArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BsinSorted2DArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bubblesort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bubblesortpractice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CeilingOfNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CeilingofNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckPalindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClimbingStairs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Combinations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Conversions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountingOccurences.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Cs_SetMismatch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Cs_findAllDuplicates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Cs_findAllMissing.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Cs_findDuplicate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Cs_missingNumber.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.CyclicSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DiceTarget.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EvenDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FiboFormula.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FibonacciNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FibonacciSeries.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibonaccitry.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindNo_of_Setbits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindPivotinDuplicate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstandLastPosition.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FlooringOfNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FrogJump.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Frogjump_K_steps.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HCFandLCM.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HouseRobberII.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InfiniteLength_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Insertionsort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InsertionsortPractice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeaderElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeapYear.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MagicNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaximumANDpair.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaximumsubArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxsumNonAdjacent.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Maxwealth.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MazePossibleCount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MazeProblem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MazeProblem_III.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MazeProblem_pathmatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MedianofArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinandMaxnumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MoveZeroes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiplicationTable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NKnights.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NQueens.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NinjaTraining.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Nqueens2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NqueensList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OccurencesofAnelement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OptimizedPrimeNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PalindromeNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PalindromeString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern1_square.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern29_Hallowdiamond.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern2_righttriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern31_concentricSquare.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern3_invRTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern4_numTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern5_halfDiamond.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Peakelement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PermutationOfStrings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Permutations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PhoneLetterCombination.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Power.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Powerof2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RangeXOR.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDuplicates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReturnAllPermutations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReversingString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RightandLeftShift.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotatedBinarySearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotatingArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotationCount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Searchin2Darray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchinArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchinMountainArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchinString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SelectionSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Selectionsortpractice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Simple_Compound_Interest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SmallestLetter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpanofanArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SplitArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StepsToMakeZero.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringPermutation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubarrayOfArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SudokuSolver.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SudokuSolver_II.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SudokuSolver_IV.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumUntilX.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwapNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Testing.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ValidSudoku.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WordSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern17_invnumtriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern28_Diamond.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern29_Hallowdiamond.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern30_numbertriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern4_numTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.reverseArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.testing.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/MSI/Desktop/DSA_in_java&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/MSI/Desktop/DSA_in_java/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.file-colors&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="HCFandLCM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_1_FlowOfProgram.HCFandLCM" />
@@ -440,7 +425,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730202771295</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Updates in Dynamic Programming">
+      <option name="closed" value="true" />
+      <created>1741974534652</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1741974534652</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -469,7 +462,8 @@
     <MESSAGE value="Updates in Recursions" />
     <MESSAGE value="Updates in Recursions and backtracking" />
     <MESSAGE value="Updates in backtracking" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updates in backtracking" />
+    <MESSAGE value="Updates in Dynamic Programming" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updates in Dynamic Programming" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
